@@ -1,0 +1,40 @@
+INFO, 2022-07-23 12:28:40,369,root,accessing list_fun class
+INFO, 2022-07-23 12:28:40,370,root,entering reverse list function
+INFO, 2022-07-23 12:28:40,370,root,[{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO, 2022-07-23 12:28:40,370,root,entering a function which checks for given data in list/tuple/set/dict
+INFO, 2022-07-23 12:28:40,370,root,from nested list/tuple/set
+INFO, 2022-07-23 12:28:40,370,root,234
+INFO, 2022-07-23 12:28:40,370,root,from dict key
+INFO, 2022-07-23 12:28:40,370,root,234
+INFO, 2022-07-23 12:28:40,371,root,matching element returned if match is found
+INFO, 2022-07-23 12:28:40,371,root,entering a function which extracts only list entities
+INFO, 2022-07-23 12:28:40,371,root,[[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO, 2022-07-23 12:28:40,371,root,entering a function which extracts a particular dictionary value
+INFO, 2022-07-23 12:28:40,371,root,value not present
+INFO, 2022-07-23 12:28:40,371,root,entering a function which extracts dictionary keys
+INFO, 2022-07-23 12:28:40,371,root,dict_keys(['key1', 234])
+INFO, 2022-07-23 12:28:40,371,root,dictionary type key element returned if present
+INFO, 2022-07-23 12:28:40,371,root,entering a function which extracts all dictionary values
+INFO, 2022-07-23 12:28:40,372,root,dict_values(['sudh', [23, 45, 656]])
+INFO, 2022-07-23 12:28:40,372,root,dictionary type value element returned if present
+INFO, 2022-07-23 12:39:47,672,root,accessing list_fun class
+INFO, 2022-07-23 12:39:47,672,root,entering reverse list function
+INFO, 2022-07-23 12:39:47,672,root,[{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO, 2022-07-23 12:39:47,672,root,entering a function which checks for given data in list/tuple/set/dict
+INFO, 2022-07-23 12:39:47,672,root,from nested list/tuple/set
+INFO, 2022-07-23 12:39:47,672,root,234
+INFO, 2022-07-23 12:39:47,672,root,from dict key
+INFO, 2022-07-23 12:39:47,672,root,234
+INFO, 2022-07-23 12:39:47,672,root,matching element returned if match is found
+INFO, 2022-07-23 12:39:47,672,root,entering a function which extracts only list entities
+INFO, 2022-07-23 12:39:47,672,root,[[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO, 2022-07-23 12:39:47,673,root,from dict value
+INFO, 2022-07-23 12:39:47,673,root,[23, 45, 656]
+INFO, 2022-07-23 12:39:47,673,root,entering a function which extracts a particular dictionary value
+INFO, 2022-07-23 12:39:47,673,root,value not present
+INFO, 2022-07-23 12:39:47,673,root,entering a function which extracts dictionary keys
+INFO, 2022-07-23 12:39:47,673,root,dict_keys(['key1', 234])
+INFO, 2022-07-23 12:39:47,673,root,dictionary type key element returned if present
+INFO, 2022-07-23 12:39:47,673,root,entering a function which extracts all dictionary values
+INFO, 2022-07-23 12:39:47,673,root,dict_values(['sudh', [23, 45, 656]])
+INFO, 2022-07-23 12:39:47,673,root,dictionary type value element returned if present

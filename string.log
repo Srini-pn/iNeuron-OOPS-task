@@ -1,0 +1,24 @@
+INFO, 2022-07-23 11:46:59,493, root, Accessing string functions class
+INFO, 2022-07-23 11:46:59,495, root, Entering slicing function
+INFO, 2022-07-23 11:46:59,495, root,  h   r tnrrmglsnimeNGyosi dtfco
+INFO, 2022-07-23 11:46:59,495, root, entering reverse function
+INFO, 2022-07-23 11:46:59,495, root,  noitcnuf sti dna gnirts nohtyp	GNINrael ma i dna	ssalc gnimmargorp nohtyP tsriF yM si siht  
+INFO, 2022-07-23 11:46:59,495, root, entering converting to uppercase and split function
+INFO, 2022-07-23 11:46:59,495, root, ['  ', 'HIS IS MY FIRS', ' PY', 'HON PROGRAMMING CLASS\tAND I AM LEARNING\tPY', 'HON S', 'RING AND I', 'S FUNC', 'ION ']
+INFO, 2022-07-23 11:46:59,495, root, entering converting to lowercase function
+INFO, 2022-07-23 11:46:59,495, root,   this is my first python programming class	and i am learning	python string and its function 
+INFO, 2022-07-23 11:46:59,495, root, this is capitalizing the whole string function
+INFO, 2022-07-23 11:46:59,495, root,   This Is My First Python Programming Class	And I Am Learning	Python String And Its Function 
+INFO, 2022-07-23 11:46:59,495, root, entering a function which checks if the string is alpha or alpha numeric
+INFO, 2022-07-23 11:46:59,495, root, False
+INFO, 2022-07-23 11:46:59,495, root, False
+INFO, 2022-07-23 11:46:59,495, root, entering expand tabs function
+INFO, 2022-07-23 11:46:59,495, root,   this is My First Python programming class     and i am learNING       python string and its function 
+INFO, 2022-07-23 11:46:59,495, root, entering string strip function
+INFO, 2022-07-23 11:46:59,495, root, lstrip =this is My First Python programming class	and i am learNING	python string and its function 
+INFO, 2022-07-23 11:46:59,495, root, rstrip =  this is My First Python programming class	and i am learNING	python string and its function
+INFO, 2022-07-23 11:46:59,495, root, strip =this is My First Python programming class	and i am learNING	python string and its function
+INFO, 2022-07-23 11:46:59,495, root, entering a function which replaces particular string with given string
+INFO, 2022-07-23 11:46:59,495, root,   this is My not first Python programming class	and i am learNING	python string and its function 
+INFO, 2022-07-23 11:46:59,495, root, entering a function which centers the string
+INFO, 2022-07-23 11:46:59,495, root, $$$$$$$$$$$$$  this is My First Python programming class	and i am learNING	python string and its function $$$$$$$$$$$$$$
